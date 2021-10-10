@@ -1,0 +1,9 @@
+{
+  "exercises": [
+    {
+      "name":"trail run",
+      "desc":"includes elevation & surface changes",
+      "target":"cardio"
+    }
+  ]
+}

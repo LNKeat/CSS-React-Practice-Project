@@ -1,0 +1,15 @@
+
+
+.form-container{
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  margin-left: 38%;
+  max-width: 300px;
+  font-size: 1.2em;
+}
+
+input, button, select{
+  font-size: 1.2em;
+  margin: .2em;
+}

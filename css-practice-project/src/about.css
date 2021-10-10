@@ -1,0 +1,27 @@
+.info-container{
+  display:flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-around;
+}
+
+.boxes{
+  padding: .5em;
+  border: solid .1em black;
+  margin: .1em 0 5em 0;
+}
+
+#contact{
+  flex-basis: 15%;
+  
+}
+#mission{
+  flex-basis: 25%;
+}
+#background{
+  flex-basis: 25%;
+}
+
+h2{
+  padding: .3em;
+}
